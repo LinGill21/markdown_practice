@@ -1,5 +1,6 @@
 # About me
 Meet me
+![localImage](https://github.com/LinGill21/markdown_practice/blob/master/mePic.PNG "LocalPicofMe")
 [Linkedin](https://www.linkedin.com/in/lindsay-gillespie-68b620122/)
 ## My favorite things
 * Mistborn Series by Brandon Sanderson
@@ -14,9 +15,9 @@ Meet me
 1. Cicada
 [Cicada_info](https://www.cicadamania.com/)
 Why they ever made a website about them is beyond me.
-1. Tomato
+1. Tomatos
 
 ![Hostedimage](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Red_Tomatoes_with_PLU_code.jpg/225px-Red_Tomatoes_with_PLU_code.jpg "Tomato")
 
 
-Picture from Wikipedia
+Picture of Tomatos and Book from Wikipedia
