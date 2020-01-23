@@ -1,10 +1,9 @@
 # About me
 Meet me
+[Linkedin](https://www.linkedin.com/in/lindsay-gillespie-68b620122/)
 
 ![vscode image](https://github.com/LinGill21/markdown_practice/raw/master/mePic.PNG "BigPic")
 
-
-[Linkedin](https://www.linkedin.com/in/lindsay-gillespie-68b620122/)
 ## My favorite things
 * Mistborn Series by Brandon Sanderson
 
