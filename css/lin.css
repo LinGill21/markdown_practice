@@ -1,0 +1,25 @@
+body {
+    background-color:coral;
+    padding-top: 5 rem;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  h2{
+      color: darkmagenta;
+      text-align: left;
+  }
+  h3{
+    color: blue;
+    text-align: right;
+}
+h4{
+    color: crimson;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
